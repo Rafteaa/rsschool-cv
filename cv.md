@@ -10,15 +10,21 @@
 * **GitHub** [rafteaa](https://github.com/Rafteaa)
 * **Telegram:** Raftea, Alexey Konyushenko
 
+******
+
 ### About Me
 
 I'm student, which want to learn and improve as Frontend Developer. I want to get a new knowledge, which will help me successfully get a job.
+
+******
 
 ### Skills
 
 * HTML5
 * CSS3
 * Git
+
+******
 
 ### Code Example
 
@@ -30,6 +36,9 @@ function exponentiation(a, b){
 let result = exponentiation(2, 8);
 alert (result);
 ```
+
+******
+
 ### Education
 * **University:** student of Odessa Polytechnic University
 * **Courses:**
@@ -39,6 +48,8 @@ alert (result);
 	 ![HTML5 course is finish](/img/html5-course-result.png)
 	 + [CSS3 Basic](https://code-basics.com/ru/languages/css) 
 	 ![CSS3 course is finish](/img/css3-course-result.png)
+
+******
 
 ### Languages
 
