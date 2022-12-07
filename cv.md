@@ -54,7 +54,7 @@ alert (result);
 
 ### Languages
 
-* English - Intermediate/Upper-intermediate (online test [EFset](https://www.efset.org/quick-check)) 
+* English - Intermediate/Upper-intermediate (online test [EFset](https://www.efset.org/quick-check))
 ![English test result](/img/english-test-result.png)
 * Ukrainian — Native
 * Russian — Native 
