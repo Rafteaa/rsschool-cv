@@ -16,8 +16,8 @@ I'm student, which want to learn and improve as Frontend Developer. I want to ge
 
 ### Skills
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Git
 
 ### Code Example
@@ -30,4 +30,12 @@ function exponentiation(a, b){
 let result = exponentiation(2, 8);
 alert (result);
 ```
+### Education
+* **University:** student of Odessa Polytechnic University
+* **Courses:**
+    + [JS/FE Pre-School 2022Q4](https://rs.school/js-stage0/) (in progress)
+	 + [JavaScript](https://learn.javascript.ru/) (in progress)
+	 + [HTML5 Basic](https://code-basics.com/ru/languages/html)
+	 + [CSS3 Basic](https://code-basics.com/ru/languages/css)
+
 
