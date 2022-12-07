@@ -20,4 +20,14 @@ I'm student, which want to learn and improve as Frontend Developer. I want to ge
 * CSS
 * Git
 
+### Code Example
+
+```
+function exponentiation(a, b){
+	return a ** b;
+}
+
+let result = exponentiation(2, 8);
+alert (result);
+```
 
