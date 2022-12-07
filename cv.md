@@ -14,3 +14,10 @@
 
 I'm student, which want to learn and improve as Frontend Developer. I want to get a new knowledge, which will help me successfully get a job.
 
+### Skills
+
+* HTML
+* CSS
+* Git
+
+
