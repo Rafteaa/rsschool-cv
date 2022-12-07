@@ -38,4 +38,8 @@ alert (result);
 	 + [HTML5 Basic](https://code-basics.com/ru/languages/html)
 	 + [CSS3 Basic](https://code-basics.com/ru/languages/css)
 
+### Languages
 
+* English - Intermediate/Upper-intermediate (online test [EFset](https://www.efset.org/quick-check))
+* Ukrainian — Native
+* Russian — Native 
