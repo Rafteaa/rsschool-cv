@@ -2,8 +2,6 @@
 
 ## Future Junior Frontend Developer
 
-******
-
 ### Contacts
 
 * **Location:** Pavlohrad, Urkaine
@@ -48,10 +46,8 @@ alert (result);
     + [JS/FE Pre-School 2022Q4](https://rs.school/js-stage0/) (in progress)
 	 + [JavaScript](https://learn.javascript.ru/) (in progress)
 	 + [HTML5 Basic](https://code-basics.com/ru/languages/html)
-	 <br> 
 	 ![HTML5 course is finish](/img/html5-course-result.png)
 	 + [CSS3 Basic](https://code-basics.com/ru/languages/css) 
-	 <br>
 	 ![CSS3 course is finish](/img/css3-course-result.png)
 
 ******
@@ -59,7 +55,6 @@ alert (result);
 ### Languages
 
 * English - Intermediate/Upper-intermediate (online test [EFset](https://www.efset.org/quick-check)) 
-<br>
 ![English test result](/img/english-test-result.png)
 * Ukrainian — Native
 * Russian — Native 
